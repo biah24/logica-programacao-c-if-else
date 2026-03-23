@@ -1,4 +1,4 @@
-//Faça um programa que receba três números e mostre o maior.
+//FaÃ§a um programa que receba trÄ™s nÃºmeros e mostre o maior.
 #include<stdio.h>
 int main (){
 	float n1, n2, n3;
