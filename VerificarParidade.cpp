@@ -1,4 +1,4 @@
-//Crie um programa que leia um número fornecido pelo usuário e informe se ele é par ou ímpar.
+//Crie um programa que leia um nÃºmero fornecido pelo usuÃ¡rio e informe se ele Ã© par ou Ã­mpar.
 #include<stdio.h>
 
 int main(){
