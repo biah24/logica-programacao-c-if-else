@@ -1,5 +1,5 @@
 #include<stdio.h>
-//Faça um programa que receba dois números e mostre o maior.
+//FaÃ§a um programa que receba dois nÃºmeros e mostre o maior.
 int main (){
 	float n1, n2;
 	printf("Digite N1: ");
