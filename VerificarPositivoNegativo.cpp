@@ -1,5 +1,5 @@
 #include<stdio.h>
-//Faça um programa que receba um número e informe se ele é positivo, negativo ou zero.
+//FaÃ§a um programa que receba um nÃºmero e informe se ele Ã© positivo, negativo ou zero.
 
 int main (){
 	float num;
